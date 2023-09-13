@@ -509,6 +509,9 @@ h1,h2,h3,h4,h5,h6{
     }
 }
 @media only screen and (max-width: 1399px) {
+    .hero .hero-vector-mobile{
+        margin-left: 150px !important;
+    }
     .hero {
         background-size: 95%;
         padding-bottom: 0px;
@@ -583,6 +586,7 @@ h1,h2,h3,h4,h5,h6{
         font-size: 55px;
         line-height: 70px;
     }
+
 }
 
 @media only screen and (max-width: 1199px) {
